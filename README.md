@@ -1,1 +1,2 @@
-# BroCode-C-Projects
+# BroCode-C++ Projects
+Practicing BroCode C++ YouTube Projects
